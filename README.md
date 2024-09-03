@@ -4,7 +4,7 @@ This project implements a simple communication system that manages players and t
 
 ## Directory Overview
 
-- **src/main/java/com/communication/**: Contains the main application code.
+- **src/main/java/org/com/app/**: Contains the main application code.
     - `Player.java`: Defines the `Player` class, representing an individual player in the communication system.
     - `PlayerHandler.java`: Manages the interactions and communication logic between players.
     - `Main.java`: The entry point of the application that initializes and starts the communication system.
